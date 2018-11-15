@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ComplexSummary/Form1.cs) (VB: [Form1.vb](./VB/ComplexSummary/Form1.vb))
+* [XtraReport1.cs](./CS/ComplexSummary/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/ComplexSummary/XtraReport1.vb))
+<!-- default file list end -->
 # How to calculate a total of different summary functions' results
 
 
